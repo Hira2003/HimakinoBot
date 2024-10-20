@@ -2,6 +2,12 @@ import streamlit as st
 import json
 import random
 
+st.set_page_config(
+    page_title="HimakinoBot",
+    page_icon=":coffee:",
+    layout="wide"
+)
+
 st.logo("ic.png")
 st.sidebar.header("Himakino by Hirafuyu")
 st.sidebar.image("ic.png")
