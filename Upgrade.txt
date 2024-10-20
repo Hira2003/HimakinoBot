@@ -1,0 +1,3 @@
+['You: advice', "Himakino: I don't understand. Can you rephrase?"]
+['You: love', "Himakino: I don't understand. Can you rephrase?", 'You: smart', "Himakino: I don't understand. Can you rephrase?"]
+['You: hi', 'Himakino: Hello', 'You: i love you', "Himakino: i'm cold in love", 'You: ok', "Himakino: I don't understand. Can you rephrase?"]
